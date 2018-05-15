@@ -1,4 +1,4 @@
-# HungeReady-and-HungeReadyToEat?
+# HungeReady-and-HungeReadyToDrive?
 ## How it works
 - **HungeReady** basically helps the merchant organize his orders and manage deliveries within his business. This includes monitoring delivery, dine-in and pick-up requests. The system also tracks **HungeReadyToDrive?** drivers that accept delivery requests posted via **HungeReadyToDrive?**.  
 
